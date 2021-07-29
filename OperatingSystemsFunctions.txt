@@ -1,0 +1,4 @@
+The most important job of an operating system and it's use in a computer is to manage the hardware of your pc or laptop in a manner that provides maximum optimization 
+as well as performance. The supervisor program determines the amount of memory load to distribute throughout other programs within the operating system which allows 
+your computer to run smoothly. User interfaces are also created by the operating system, giving you the capability to actually control your computer with much more ease
+than without the interface. 
