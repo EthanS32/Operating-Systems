@@ -2,3 +2,4 @@ The most important job of an operating system and it's use in a computer is to m
 as well as performance. The supervisor program determines the amount of memory load to distribute throughout other programs within the operating system which allows 
 your computer to run smoothly. User interfaces are also created by the operating system, giving you the capability to actually control your computer with much more ease
 than without the interface. 
+Operating systems control the hardware devices that are connected to your specific computer, as well as keeps track of the drivers that are used with each device. The OS provides your computer with the capabilities to allocate certain resources to different hardware used within your computer so that drivers are not overloaded. It also activates and deactivates certain hardware when it's in use or not in use, which allows memory storage to improve as well as CPU performance. 
